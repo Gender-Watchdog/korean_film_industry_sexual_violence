@@ -1,0 +1,29 @@
+title: "Korea's Film Schools & Netflix: Timeline of Systemic Sexual Violence"
+email: genderwatchdog@proton.me
+description: >-
+  A decade of sexual violence, institutional betrayal, and public funds fraud across Korea's leading film schools.
+baseurl: "/timeline-website"
+url: "https://genderwatchdog1.github.io"
+github_username: genderwatchdog1
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+
+sass:
+    sass_dir: _sass
+
+exclude:
+  - secret-files
+  - doc
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
