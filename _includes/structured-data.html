@@ -1,0 +1,14 @@
+{% comment %}JSON-LD structured data — server-side rendered by Jekyll for crawlers and SEO.
+  - Timeline pages: set `structured_data_key: timeline_en` (or other language key) in front matter
+    to load the corresponding _data/structured_data/<key>.json file.
+  - Blog post / article pages: set `og_type: article` in front matter to auto-generate
+    an Article schema from the page's own title, description, lang, and url.
+{% endcomment %}
+{% if page.structured_data_key %}
+  {% assign sd = site.data.structured_data[page.structured_data_key] %}
+  <script type="application/ld+json">{{ sd | jsonify }}</script>
+{% elsif page.og_type == 'article' %}
+  {% assign lang_code = page.lang | default: 'en' %}
+  {% if lang_code == 'zh_ch' %}{% assign lang_code = 'zh-CN' %}{% elsif lang_code == 'zh_tw' %}{% assign lang_code = 'zh-TW' %}{% endif %}
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"inLanguage":{{ lang_code | jsonify }},"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}","author":{"@type":"Organization","name":"Gender Watchdog"},"publisher":{"@type":"Organization","name":"Gender Watchdog","logo":{"@type":"ImageObject","url":"https://metookorea2025.genderwatchdog.org/assets/imgs/favicons/gender_watchdog_favicon_128x128.png"}}}</script>
+{% endif %}
