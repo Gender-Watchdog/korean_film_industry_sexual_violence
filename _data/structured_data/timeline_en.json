@@ -390,7 +390,7 @@
         "@type": "Event",
         "name": "KPop Demon Hunters Wins Best Animated Feature and Best Original Song at 98th Academy Awards",
         "startDate": "2026-03-15",
-        "description": "KPop Demon Hunters wins two Academy Awards at the 98th Oscars: Best Animated Feature and Best Original Song (\"Golden\"). The film has surpassed 500 million cumulative views on Netflix. The awards ceremony takes place on March 15, 2026; the Korea Times article covering it is dated March 16, 2026 (Korea is a day ahead of Los Angeles). Gender Watchdog's ESG notice to Netflix goes out on March 17, 2026.",
+        "description": "KPop Demon Hunters wins two Academy Awards at the 98th Oscars: Best Animated Feature and Best Original Song (\"Golden\"). The film has surpassed 500 million cumulative views on Netflix. The awards ceremony takes place on March 15, 2026.",
         "url": "https://www.koreatimes.co.kr/entertainment/films/20260316/kpop-demon-hunters-wins-big-at-oscars-with-2-awards",
         "location": {
           "@type": "Place",
@@ -403,9 +403,9 @@
       "position": 27,
       "item": {
         "@type": "Event",
-        "name": "Gender Watchdog Sends ESG Notice to Netflix; Publishes \"Netflix Knew\"",
+        "name": "Gender Watchdog Sends ESG Notice to Netflix",
         "startDate": "2026-03-17",
-        "description": "Gender Watchdog sends formal ESG notice to Netflix, Coupang Play, Motion Pictures Association, Disney, HBO/Max, and BHRRC documenting supply chain risk, university partnership fraud, and the Netflix documentary library knowledge problem. Simultaneously publishes Netflix Knew: The Documentary Library That Documents What Platform Investment Obscures.",
+        "description": "Gender Watchdog sends formal ESG notice to Netflix, Coupang Play, Motion Pictures Association, Disney, HBO/Max, and BHRRC documenting supply chain risk, university partnership fraud, and the Netflix documentary library knowledge problem. The notice forwards the March 16 publication of Netflix Knew: The Documentary Library That Documents What Platform Investment Obscures.",
         "url": "https://blog.genderwatchdog.org/netflix-knew-kpop-exploitation-documentary-library/",
         "location": {
           "@type": "Place",

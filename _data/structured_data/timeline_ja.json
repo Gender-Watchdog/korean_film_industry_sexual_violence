@@ -390,7 +390,7 @@
         "@type": "Event",
         "name": "KPop Demon Hunters、第98回アカデミー賞で長編アニメーション映画賞と主題歌賞を受賞",
         "startDate": "2026-03-15",
-        "description": "KPop Demon Huntersが第98回アカデミー賞で2冠を達成：長編アニメーション映画賞と主題歌賞（「Golden」）。Netflixでの累計視聴数は5億回を超えた。授賞式は2026年3月15日に行われた（韓国はロサンゼルスより1日先行するため、コリア・タイムズの記事は3月16日付）。ジェンダー・ウォッチドッグのNetflixへのESG通知は2026年3月17日に送付される。",
+        "description": "KPop Demon Huntersが第98回アカデミー賞で2冠を達成：長編アニメーション映画賞と主題歌賞（「Golden」）。Netflixでの累計視聴数は5億回を超えた。授賞式は2026年3月15日に行われた。",
         "url": "https://www.koreatimes.co.kr/entertainment/films/20260316/kpop-demon-hunters-wins-big-at-oscars-with-2-awards",
         "location": {
           "@type": "Place",
@@ -403,9 +403,9 @@
       "position": 27,
       "item": {
         "@type": "Event",
-        "name": "ジェンダー・ウォッチドッグ、NetflixへのESG通知を送付；「Netflix Knew」を公開",
+        "name": "ジェンダー・ウォッチドッグ、NetflixへESG通知を送付",
         "startDate": "2026-03-17",
-        "description": "ジェンダー・ウォッチドッグがNetflix、Coupang Play、Motion Pictures Association、Disney、HBO/Max、BHRRCに対して、サプライチェーンリスク、大学パートナーシップ詐偽、Netflixのドキュメンタリーライブラリが示す知識の問題に関する正式なESG通知を送付した。同時に『\"Netflix Knew\"：プラットフォーム投資が覆い隠すものを記録するドキュメンタリーライブラリ』を公開した。",
+        "description": "ジェンダー・ウォッチドッグがNetflix、Coupang Play、Motion Pictures Association、Disney、HBO/Max、BHRRCに対して、サプライチェーンリスク、大学パートナーシップ偽装、Netflixのドキュメンタリーライブラリが示す知識の問題に関する正式なESG通知を送付した。この通知は、3月16日に公開された『\"Netflix Knew\"：プラットフォーム投資が覆い隠すものを記録するドキュメンタリーライブラリ』を転送・共有するものである。",
         "url": "https://blog.genderwatchdog.org/netflix-knew-kpop-exploitation-documentary-library/",
         "location": {
           "@type": "Place",
