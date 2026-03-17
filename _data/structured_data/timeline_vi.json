@@ -1,0 +1,417 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Các trường điện ảnh Hàn Quốc và Netflix: Dòng thời gian của bạo lực tình dục có hệ thống và sự phản bội về thể chế (2009–2026)",
+  "description": "Cung cấp hồ sơ chứng cứ từ các nguồn gốc về việc các trường đại học Hàn Quốc - nơi cung cấp nội dung cho Netflix - tham gia lừa đảo hợp tác, che đậy bạo lực tình dục và chịu thất bại trong quản trị.",
+  "url": "https://metookorea2025.genderwatchdog.org/timeline_vi.html",
+  "itemListOrder": "https://schema.org/ItemListOrderAscending",
+  "numberOfItems": 27,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Event",
+        "name": "Nữ diễn viên Jang Ja-yeon chết vì tự tử; Điều tra NHRC cho thấy 60,2% nữ diễn viên bị ép cung cấp dịch vụ tình dục",
+        "startDate": "2009-03-07",
+        "description": "Nữ diễn viên Jang Ja-yeon chết vì tự tử, để lại thư tố cáo bị ép buộc cung cấp dịch vụ tình dục cho các nhân vật trong ngành. Cuộc điều tra sau đó của Ủy ban Nhân quyền Quốc gia cho thấy 60,2% nữ diễn viên Hàn Quốc đã bị yêu cầu cung cấp dịch vụ tình dục cho các bên liên quan trong ngành.",
+        "url": "https://en.wikipedia.org/wiki/Jang_Ja-yeon",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Event",
+        "name": "Vụ án phòng thứ N: Mạng lưới bóc lột tình dục hàng loạt qua Telegram hoạt động 2018–2020",
+        "startDate": "2018-01-01",
+        "endDate": "2020-12-31",
+        "description": "Cho Ju-bin — cựu sinh viên Đại học Kỹ thuật Inha — vận hành mạng lưới bóc lột tình dục hàng loạt qua Telegram nhắm vào phụ nữ và trẻ em gái trên khắp Hàn Quốc. Ít nhất 74 phụ nữ bị tống tiền trực tiếp. Khoảng 260.000 người dùng tham gia các phòng chat liên kết. Cho bị kết án 47 năm tù.",
+        "url": "https://en.wikipedia.org/wiki/Nth_Room_case",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Event",
+        "name": "KWDI: 61,5% nữ sinh viên nghệ thuật đại học bị bạo lực tình dục",
+        "startDate": "2020-01-01",
+        "description": "Viện Phát triển Phụ nữ Hàn Quốc (KWDI) công bố nghiên cứu đại diện toàn quốc cho thấy 61,5% nữ sinh viên trong các chương trình nghệ thuật và văn hóa đại học Hàn Quốc bị bạo lực tình dục, chủ yếu do giảng viên nam trong các bộ môn do nam giới thống trị. Khoa điện ảnh đạt 81/100 điểm trên thang đo rủi ro.",
+        "url": "https://eng.kwdi.re.kr/inc/download.do?ut=A&upIdx=102748&no=1",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters bắt đầu sản xuất tại Sony Pictures Animation",
+        "startDate": "2021-03-01",
+        "description": "KPop Demon Hunters bắt đầu sản xuất tại Sony Pictures Animation với đội ngũ sáng tạo đầy đủ. Đồng đạo diễn bởi nhà làm phim người Canada gốc Hàn Maggie Kang và Chris Appelhans.",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+        "location": {
+          "@type": "Place",
+          "name": "Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Event",
+        "name": "Netflix mua lại IP, quyền phân phối và âm nhạc KPop Demon Hunters từ Sony",
+        "startDate": "2021-01-01",
+        "description": "Sony Pictures Animation ký hợp đồng với Netflix cho KPop Demon Hunters. Netflix mua lại toàn bộ IP, phân phối, bán lẻ và quyền âm nhạc. Sony giữ quyền sản xuất và phần lợi nhuận có giới hạn. Netflix trở thành nhà cấp phép duy nhất của thương hiệu mãi mãi.",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+        "location": {
+          "@type": "Place",
+          "name": "Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Event",
+        "name": "Netflix sản xuất Cyber Hell: Phơi bày kinh dị trên Internet",
+        "startDate": "2022-01-01",
+        "description": "Netflix sản xuất và phát hành toàn cầu Cyber Hell: Phơi bày kinh dị trên Internet, ghi lại mạng lưới bóc lột tình dục hàng loạt qua Telegram. Tổ chức Ân xá Quốc tế mô tả các tội ác này là phản ánh bạo lực dựa trên giới tính có cấu trúc ở Hàn Quốc.",
+        "url": "https://www.netflix.com/title/81354041",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Event",
+        "name": "Netflix sản xuất In the Name of God: A Holy Betrayal; Thắng lệnh cấm tòa án Hàn Quốc",
+        "startDate": "2023-01-01",
+        "description": "Netflix sản xuất và phân phối toàn cầu In the Name of God: A Holy Betrayal, ghi lại bốn giáo chủ Hàn Quốc đã bóc lột tình dục các tín đồ nữ được tuyển dụng chủ yếu từ các trường đại học. JMS xin lệnh cấm phát hành. Đội pháp lý Netflix thắng kiện tại Tòa án Quận phía Tây Seoul.",
+        "url": "https://www.netflix.com/title/81493078",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Event",
+        "name": "Netflix cam kết 2,5 tỷ USD đầu tư vào nội dung Hàn Quốc (2023–2027)",
+        "startDate": "2023-06-01",
+        "description": "Netflix cam kết 2,5 tỷ USD đầu tư vào nội dung Hàn Quốc giai đoạn 2023–2027, trực tiếp tài trợ cho hệ sinh thái mà chính các bộ phim tài liệu của Netflix đã ghi lại là có điều kiện bóc lột có hệ thống.",
+        "url": "https://www.koreatimes.co.kr/www/art/2024/02/398_353483.html",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Event",
+        "name": "JYP Entertainment thông báo mini album thứ 14 của TWICE: Strategy",
+        "startDate": "2024-10-20",
+        "description": "JYP Entertainment thông báo mini album thứ 14 của TWICE Strategy, sẽ phát hành ngày 6 tháng 12, 2024. Ca khúc chính Strategy sau đó sẽ được Netflix cấp phép cho soundtrack của KPop Demon Hunters.",
+        "url": "https://allkpop.com/article/2024/10/twice-announces-14th-mini-album-strategy-as-their-first-full-group-comeback-in-10-months",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Event",
+        "name": "6 tháng 12, 2024: TWICE phát hành Strategy VÀ KG Crown đệ đơn kiện JYP USA",
+        "startDate": "2024-12-06",
+        "description": "Cùng ngày: TWICE phát hành mini album thứ 14 Strategy qua JYP Entertainment/Republic Records. Đồng thời, Kiera Grace Madder (KG Crown), 17 tuổi, đệ đơn kiện KG Crown v. JYP USA Entertainment tại Tòa án Cấp cao Hạt Los Angeles. Cáo buộc bao gồm camera ẩn, kiểm soát chế độ ăn ở mức đói, nợ ràng buộc hơn 500.000 USD, ép tập luyện qua chấn thương và che giấu vụ tự tử. Cô ký hợp đồng với JYP khi 15 tuổi.",
+        "url": "https://www.latimes.com/california/story/2025-06-03/kg-crown-kpop-vcha-jyp-entertainment-lawsuit",
+        "location": {
+          "@type": "Place",
+          "name": "Los Angeles, California, Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Event",
+        "name": "Tòa án California từ chối đề nghị trọng tài bắt buộc của JYP",
+        "startDate": "2025-03-01",
+        "description": "Tòa án California bác đề nghị của JYP USA về việc áp dụng trọng tài bắt buộc, phán quyết rằng cáo buộc gian lận khi ký hợp đồng có thể vô hiệu hóa điều khoản trọng tài — công khai hóa toàn bộ hồ sơ để xét xử tư pháp.",
+        "url": "https://www.latimes.com/california/story/2025-06-03/kg-crown-kpop-vcha-jyp-entertainment-lawsuit",
+        "location": {
+          "@type": "Place",
+          "name": "California, Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Event",
+        "name": "KG Crown công bố bản khai tòa án 132 trang ghi lại hành vi lạm dụng của JYP",
+        "startDate": "2025-05-01",
+        "description": "KG Crown công khai bản khai tòa án 132 trang ghi lại toàn bộ phạm vi cáo buộc chống lại JYP USA: camera ẩn trong khu vực ăn uống, kiểm soát chế độ ăn ở mức đói, nợ ràng buộc hơn 500.000 USD, ép tập luyện qua chấn thương và che giấu vụ tự tử. KG Crown tuyên bố công khai: các điều kiện cô trải qua là 'ăn sâu vào ngành K-pop'.",
+        "url": "https://www.asianjunkie.com/2025/05/01/kg-ex-vcha-shares-132-page-court-declaration-in-abuse-mistreatment-lawsuit-against-jyp-entertainment/",
+        "location": {
+          "@type": "Place",
+          "name": "California, Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Event",
+        "name": "Gender Watchdog tiếp cận lần đầu tới Netflix và Netflix Korea",
+        "startDate": "2025-05-07",
+        "description": "Gender Watchdog Research Collective gửi thông báo khẩn cấp tới Netflix và Netflix Korea, cảnh báo về rủi ro Title IX và danh tiếng do bạo lực tình dục có hệ thống trên khắp các trường đại học nghệ thuật Hàn Quốc và các đối tác ngành, bao gồm cam kết nội dung Hàn Quốc 2,5 tỷ USD của Netflix.",
+        "url": "https://metookorea2025.genderwatchdog.org/blog_posts/en/05072025_netflix_outreach.html",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Event",
+        "name": "Phơi bày khủng hoảng chứng nhận IEQAS: Điều tra mở rộng sang nhiều trường đại học Hàn Quốc",
+        "startDate": "2025-05-12",
+        "description": "Sau hơn 34 ngày chính phủ và các trường đại học không hành động, cuộc điều tra của Gender Watchdog mở rộng sang các vấn đề bạo lực tình dục có hệ thống trên toàn bộ hệ thống giáo dục đại học Hàn Quốc. Kết quả cho thấy chứng nhận IEQAS bị xâm phạm, với các tổ chức làm giả quan hệ đối tác để nhận tài trợ và duy trì chương trình có rủi ro bạo lực tình dục được ghi nhận.",
+        "url": "https://metookorea2025.genderwatchdog.org/blog_posts/en/05152025_horizontal_ieqas.html",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters ra mắt toàn cầu trên Netflix với soundtrack JYP/TWICE",
+        "startDate": "2025-06-20",
+        "description": "KPop Demon Hunters ra mắt toàn cầu trên Netflix. Soundtrack bao gồm hai bài hát được cấp phép từ TWICE/JYP: Takedown (biểu diễn bởi Jeongyeon, Jihyo, Chaeyoung) và Strategy (phiên bản solo). Trang soundtrack chính thức của Netflix ghi nhận: 'TWICE xuất hiện theo sự cho phép của JYP Entertainment Corporation.' Vụ kiện bóc lột trẻ em KG Crown v. JYP vẫn đang trong quá trình xét xử tại California vào ngày này.",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+        "location": {
+          "@type": "Place",
+          "name": "Toàn cầu"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Event",
+        "name": "Thành viên VCHA Kaylee rời JYP Entertainment qua thỏa thuận chấm dứt hợp đồng",
+        "startDate": "2025-07-12",
+        "description": "Thành viên VCHA Kaylee rời đi theo thỏa thuận chấm dứt hợp đồng. Cô ký hợp đồng ban đầu khi 15 tuổi.",
+        "url": "https://www.koreaherald.com/article/10550039",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Event",
+        "name": "KG Crown v. JYP USA Entertainment dàn xếp với điều khoản bí mật",
+        "startDate": "2025-08-08",
+        "description": "KG Crown v. JYP USA Entertainment dàn xếp với điều khoản bí mật, xác nhận KG Crown rời JYP Entertainment vĩnh viễn. Điều khoản không được tiết lộ. Dàn xếp bí mật bảo vệ quyền không xác nhận sự thật của công ty. Nó không cấu thành sự phủ nhận của họ.",
+        "url": "https://www.koreaherald.com/article/10550039",
+        "location": {
+          "@type": "Place",
+          "name": "California, Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Event",
+        "name": "Netflix và Sony bắt đầu đàm phán phần tiếp theo KPop Demon Hunters; Sản xuất Echoes of Survivors",
+        "startDate": "2025-08-01",
+        "description": "Netflix và Sony Pictures Animation bắt đầu đàm phán phần tiếp theo của KPop Demon Hunters; các đạo diễn Kang và Appelhans ký hợp đồng độc quyền nhiều năm với Netflix — vào cùng tháng vụ kiện JYP dàn xếp bí mật. Đồng thời, Netflix sản xuất The Echoes of Survivors: Inside Korea's Tragedies, tiếp tục cuộc điều tra về giáo phái JMS. JMS nộp đơn xin lệnh cấm lần thứ hai. Netflix lại thắng.",
+        "url": "https://www.netflix.com/title/81740073",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Event",
+        "name": "Phát hành soundtrack deluxe KPop Demon Hunters",
+        "startDate": "2025-09-05",
+        "description": "Phiên bản deluxe của soundtrack KPop Demon Hunters được phát hành, bao gồm các bài hát bổ sung và phiên bản thay thế.",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)",
+        "location": {
+          "@type": "Place",
+          "name": "Toàn cầu"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Event",
+        "name": "Korea Times: \"8 trong 10 thực tập sinh nữ K-Pop ngừng kinh nguyệt\"",
+        "startDate": "2025-09-20",
+        "description": "Korea Times đưa tin về cuốn sách của nhà báo Jeon Da-hyeon K-pop, Idols in Wonderland, báo cáo phát hiện từ 40+ người trong ngành: tám trong mười thực tập sinh nữ ngừng kinh nguyệt do hạn chế calo cực đoan được thực thi dưới vận động thể chất mạnh bạo — bằng chứng sinh lý về cấu trúc đào tạo đã tạo ra TWICE, Itzy, Stray Kids và mọi nghệ sĩ JYP đang phát trực tuyến toàn cầu.",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20250920/8-out-of-10-female-trainees-stop-menstruating-new-book-reveals-dark-side-of-k-pop",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Event",
+        "name": "Phát hành soundtrack KPop Demon Hunters tiếng Bồ Đào Nha Brazil",
+        "startDate": "2025-11-07",
+        "description": "Phiên bản tiếng Bồ Đào Nha Brazil của soundtrack KPop Demon Hunters được phát hành toàn cầu.",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)",
+        "location": {
+          "@type": "Place",
+          "name": "Toàn cầu"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Event",
+        "name": "Hợp đồng thực tập sinh tiêu chuẩn sửa đổi của Hàn Quốc có hiệu lực",
+        "startDate": "2026-01-01",
+        "description": "Hợp đồng thực tập sinh tiêu chuẩn sửa đổi của Bộ Văn hóa, Thể thao và Du lịch Hàn Quốc có hiệu lực — lần đầu tiên cấm rõ ràng lạm dụng lời nói, cưỡng bức và bạo lực tình dục. Sự cần thiết của luật này vào năm 2026 ghi lại những gì luật nói trước năm 2026: không có gì có thể thực thi.",
+        "url": "https://lawzana.com/article/legal-news/south-korea-enforces-k-pop-prevention-of-unfair-practices-standard-contracts-302",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Event",
+        "name": "Scott Shepherd: \"K-Pop tốn kém bao nhiêu?\" — Bình luận trên Korea Times",
+        "startDate": "2026-02-28",
+        "description": "Scott Shepherd, học giả người Anh làm việc trong hệ thống đại học Hàn Quốc, xuất bản bình luận trên Korea Times: 'Một ngôi sao K-pop thành công đáng giá bao nhiêu cuộc đời bị hủy hoại? Giá trị của một triệu lượt nhấp chuột là bao nhiêu nếu được đo lường theo số lượng người đàn ông hay phụ nữ trẻ bị khách thể hóa?' — đặt tên cho chu kỳ bê bối-lãng quên là mang tính cấu trúc.",
+        "url": "https://www.koreatimes.co.kr/opinion/20260228/how-much-does-k-pop-cost",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Event",
+        "name": "Gender Watchdog công bố tài liệu về Đại học Chung-Ang",
+        "startDate": "2026-03-09",
+        "description": "Gender Watchdog công bố tài liệu về Đại học Chung-Ang (CAU): tỷ lệ tương hỗ 27% trong các quan hệ đối tác toàn cầu được tuyên bố; hồ sơ che đậy bạo lực tình dục 21 năm; đường ống chuyên về nội dung OTT được Bộ tài trợ vào CJ ENM và Netflix. Không nhận được phản bác nào.",
+        "url": "https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan/",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Event",
+        "name": "Gender Watchdog công bố \"Chín trường đại học Hàn Quốc, không có phản bác\"",
+        "startDate": "2026-03-11",
+        "description": "Gender Watchdog công bố Chín Trường Đại Học Hàn Quốc, Không Có Phản Bác — ghi lại rằng không có trường đại học Hàn Quốc nào phản bác bất kỳ phát hiện nào trong chiến dịch toàn cầu thông báo cho 1.500 trường đại học hàng đầu thế giới về gian lận quan hệ đối tác có hệ thống ở chín tổ chức Hàn Quốc.",
+        "url": "https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters giành giải Phim hoạt hình xuất sắc nhất và Bài hát gốc xuất sắc nhất tại Oscar lần thứ 98",
+        "startDate": "2026-03-15",
+        "description": "KPop Demon Hunters giành hai giải Oscar tại lễ trao giải lần thứ 98: Phim hoạt hình xuất sắc nhất và Bài hát gốc xuất sắc nhất ('Golden'). Phim đã vượt 500 triệu lượt xem tích lũy trên Netflix. Lễ trao giải diễn ra vào ngày 15 tháng 3, 2026.",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260316/kpop-demon-hunters-wins-big-at-oscars-with-2-awards",
+        "location": {
+          "@type": "Place",
+          "name": "Hollywood, California, Hoa Kỳ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "Event",
+        "name": "Gender Watchdog gửi thông báo ESG chính thức tới Netflix",
+        "startDate": "2026-03-17",
+        "description": "Gender Watchdog gửi thông báo ESG chính thức tới Netflix, Coupang Play, Motion Pictures Association, Disney, HBO/Max và BHRRC ghi lại rủi ro chuỗi cung ứng, gian lận quan hệ đối tác đại học và vấn đề kiến thức của thư viện phim tài liệu Netflix. Thông báo bao gồm liên kết đến bài đăng ngày 16 tháng 3 'Netflix Knew: Thư viện tài liệu ghi lại những gì đầu tư nền tảng che khuất'.",
+        "url": "https://blog.genderwatchdog.org/netflix-knew-kpop-exploitation-documentary-library/",
+        "location": {
+          "@type": "Place",
+          "name": "Hàn Quốc"
+        }
+      }
+    }
+  ]
+}
