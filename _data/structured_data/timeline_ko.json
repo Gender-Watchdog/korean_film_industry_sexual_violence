@@ -1,0 +1,417 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "한국 영화학교와 넷플릭스: 조직적 성폭력과 제도적 배신의 타임라인 (2009-2026)",
+  "description": "넷플릭스의 콘텐츠 제작 파이프라인에 공급하는 한국 대학들의 파트너십 사기, 성폭력 은폐, 그리고 거버넌스 실패를 1차 자료 증거와 함께 기록합니다.",
+  "url": "https://metookorea2025.genderwatchdog.org/timeline_ko.html",
+  "itemListOrder": "https://schema.org/ItemListOrderAscending",
+  "numberOfItems": 27,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Event",
+        "name": "배우 장자연, 스스로 목숨을 끊다",
+        "startDate": "2009-03-07",
+        "description": "유서에서 업계 인사들에게 성접대를 강요받았다고 주장; 국가인권위원회 조사 결과 한국 여배우 60.2%가 같은 압박을 받은 것으로 드러남",
+        "url": "https://en.wikipedia.org/wiki/Jang_Ja-yeon",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Event",
+        "name": "n번방 사건: 텔레그램 집단 성착취 네트워크",
+        "startDate": "2018-01-01",
+        "description": "조주빈, 전국 여성·여아 대상 네트워크 운영 — 74명 이상 직접 협박, 이용자 약 26만 명",
+        "url": "https://en.wikipedia.org/wiki/Nth_Room_case",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        },
+        "endDate": "2020-12-31"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Event",
+        "name": "KWDI: 여성 예술계 학생 61.5%, 성폭력 경험",
+        "startDate": "2020-01-01",
+        "description": "한국여성정책연구원 전국 대표성 연구, 한국 대학 예술 프로그램의 성폭력 실태 규명",
+        "url": "https://eng.kwdi.re.kr/inc/download.do?ut=A&upIdx=102748&no=1",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters, 소니에서 제작 시작",
+        "startDate": "2021-03-01",
+        "description": "소니픽처스 애니메이션에서 제작 개시; 매기 강, 크리스 아펠한스 공동 연출",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+        "location": {
+          "@type": "Place",
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Event",
+        "name": "넷플릭스, KPop Demon Hunters IP 및 권리 취득",
+        "startDate": "2021-01-01",
+        "description": "넷플릭스, 전체 IP·배급·상품화·음악 권리 취득; 소니는 제작권 유지",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+        "location": {
+          "@type": "Place",
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Event",
+        "name": "넷플릭스, 《사이버 지옥》 다큐멘터리 제작",
+        "startDate": "2022-01-01",
+        "description": "텔레그램 집단 성착취 네트워크 기록 — 국제 앰네스티: 한국의 구조적 성별 폭력 반영",
+        "url": "https://www.netflix.com/title/81354041",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Event",
+        "name": "넷플릭스: 《나는 신이다》 — 한국 법원 가처분 신청 기각",
+        "startDate": "2023-01-01",
+        "description": "한국 사이비 교주들의 대학 캠퍼스 내 그루밍 기록; JMS 가처분 신청; 넷플릭스 법무팀 서울 법원에서 승소",
+        "url": "https://www.netflix.com/title/81493078",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Event",
+        "name": "넷플릭스, 한국 콘텐츠에 25억 달러 투자 공약 (2023-2027)",
+        "startDate": "2023-06-01",
+        "description": "넷플릭스, 자체 다큐멘터리가 구조적 착취 생태계로 기록한 바로 그 산업에 자금 지원",
+        "url": "https://www.koreatimes.co.kr/www/art/2024/02/398_353483.html",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Event",
+        "name": "JYP, TWICE 14번째 미니앨범 Strategy 발표",
+        "startDate": "2024-10-20",
+        "description": "2024년 12월 6일 발매 예정; 타이틀 트랙은 이후 넷플릭스가 KPop Demon Hunters에 라이선스",
+        "url": "https://allkpop.com/article/2024/10/twice-announces-14th-mini-album-strategy-as-their-first-full-group-comeback-in-10-months",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Event",
+        "name": "같은 날: TWICE Strategy 발매 / KG Crown, JYP 상대 소송 제기",
+        "startDate": "2024-12-06",
+        "description": "같은 날: TWICE Strategy 발매 — 17세 KG Crown, 캘리포니아에서 JYP USA 상대 아동 착취 소송 제기",
+        "url": "https://www.latimes.com/california/story/2025-06-03/kg-crown-kpop-vcha-jyp-entertainment-lawsuit",
+        "location": {
+          "@type": "Place",
+          "name": "Los Angeles, California, United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Event",
+        "name": "캘리포니아 법원: JYP 강제 중재 신청 기각",
+        "startDate": "2025-03-01",
+        "description": "법원, 계약 체결 과정의 사기 주장은 중재 조항을 무효화할 수 있다고 판결 — 전체 기록 공개 사법 심사 돌입",
+        "url": "https://www.latimes.com/california/story/2025-06-03/kg-crown-kpop-vcha-jyp-entertainment-lawsuit",
+        "location": {
+          "@type": "Place",
+          "name": "Los Angeles, California, United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Event",
+        "name": "KG Crown, 132페이지 법정 진술서 공개",
+        "startDate": "2025-05-01",
+        "description": "전문 공개: 숨겨진 카메라, 아사, 50만 달러 채무 노예, 자살 시도 은폐 — KG: 이 상황들은 \"K-pop 산업에 깊이 뿌리 박혀 있다\"",
+        "url": "https://www.asianjunkie.com/2025/05/01/kg-ex-vcha-shares-132-page-court-declaration-in-abuse-mistreatment-lawsuit-against-jyp-entertainment/",
+        "location": {
+          "@type": "Place",
+          "name": "Los Angeles, California, United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Event",
+        "name": "Netflix 및 Netflix Korea 최초 통보",
+        "startDate": "2025-05-07",
+        "description": "한국 영화학교와 산업 파트너의 조직적 성폭력 위험을 Netflix에 공식 통보",
+        "url": "https://metookorea2025.genderwatchdog.org/blog_posts/en/05072025_netflix_outreach.html",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Event",
+        "name": "IEQAS 인증 위기 폭로",
+        "startDate": "2025-05-12",
+        "description": "다수의 한국 대학으로 조사가 확대되며 조직적 성폭력 위험이 드러남",
+        "url": "https://metookorea2025.genderwatchdog.org/blog_posts/en/05152025_horizontal_ieqas.html",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters, JYP/TWICE 사운드트랙으로 넷플릭스 공개",
+        "startDate": "2025-06-20",
+        "description": "전 세계 공개; TWICE/JYP 트랙 2곡 라이선스 (\"Takedown\" & \"Strategy\") — JYP 아동 착취 소송 해당 일자 기준 현재 진행 중",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+        "location": {
+          "@type": "Place",
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Event",
+        "name": "VCHA 멤버 Kaylee, JYP 엔터테인먼트 퇴사",
+        "startDate": "2025-07-12",
+        "description": "계약 합의 종료; Kaylee는 최초 계약 당시 15세",
+        "url": "https://www.koreaherald.com/article/10550039",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Event",
+        "name": "KG Crown v. JYP, 비공개 조건으로 합의",
+        "startDate": "2025-08-08",
+        "description": "소송 비공개 조건 합의 — 비공개 합의는 혐의 부인이 아님",
+        "url": "https://www.koreaherald.com/article/10550039",
+        "location": {
+          "@type": "Place",
+          "name": "Los Angeles, California, United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Event",
+        "name": "넷플릭스: 속편 협상 시작 + 《생존자의 메아리》 제작",
+        "startDate": "2025-08-01",
+        "description": "JYP 소송 합의 같은 달, 넷플릭스/소니 KPop Demon Hunters 속편 협상 시작; 넷플릭스, 두 번째 JMS 가처분 기각으로 《생존자의 메아리》 제작",
+        "url": "https://www.netflix.com/title/81740073",
+        "location": {
+          "@type": "Place",
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters 디럭스 사운드트랙 발매",
+        "startDate": "2025-09-05",
+        "description": "추가 트랙 및 대체 버전이 포함된 확장 디럭스 에디션",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)",
+        "location": {
+          "@type": "Place",
+          "name": "United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Event",
+        "name": "코리아타임스: \"여성 K-pop 연습생 10명 중 8명 생리 중단\"",
+        "startDate": "2025-09-20",
+        "description": "기자 전다현이 업계 관계자 40명 이상을 인터뷰한 저서, K-pop 훈련 시스템이 여아에게 미치는 생리적 해악 기록",
+        "url": "https://www.koreatimes.co.kr/lifestyle/books/20250920/8-out-of-10-female-trainees-stop-menstruating-new-book-reveals-dark-side-of-k-pop",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters 포르투갈어 사운드트랙 발매",
+        "startDate": "2025-11-07",
+        "description": "브라질 포르투갈어 에디션 전 세계 발매 — 프랜차이즈 지속 확장",
+        "url": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)",
+        "location": {
+          "@type": "Place",
+          "name": "Brazil"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Event",
+        "name": "한국 개정 연습생 표준 계약 시행",
+        "startDate": "2026-01-01",
+        "description": "처음으로 언어폭력·강압·성폭력을 계약상 명시 금지 — 2026년 이전 법이 말한 것은 '아무것도 집행 가능하지 않았다'는 사실을 기록",
+        "url": "https://lawzana.com/article/legal-news/south-korea-enforces-k-pop-prevention-of-unfair-practices-standard-contracts-302",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Event",
+        "name": "코리아타임스: \"K-pop의 대가는 얼마인가?\" — Scott Shepherd",
+        "startDate": "2026-02-28",
+        "description": "한국 대학 재직 영국 학자: \"성공한 K-pop 스타 한 명은 몇 명의 망가진 삶과 맞먹는가?\" — 비주류가 아닌 주류 칼럼으로 게재",
+        "url": "https://www.koreatimes.co.kr/opinion/20260228/how-much-does-k-pop-cost",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Event",
+        "name": "젠더왓치독: 중앙대학교 문서 공개",
+        "startDate": "2026-03-09",
+        "description": "중앙대: 글로벌 파트너십 상호 인정률 27%; 21년 성폭력 은폐 기록; 정부 지원 OTT 콘텐츠 특화 파이프라인이 CJ ENM과 넷플릭스로 연결",
+        "url": "https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan/",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Event",
+        "name": "젠더왓치독: \"9개 대학, 반박 0건\"",
+        "startDate": "2026-03-11",
+        "description": "세계 상위 1,500개 대학에 9개 한국 기관의 파트너십 허위 기재를 알리는 글로벌 캠페인에서 어떤 한국 대학도 문서화된 조사 결과에 이의를 제기하지 않음",
+        "url": "https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "Event",
+        "name": "KPop Demon Hunters, 제98회 오스카 2관왕 수상",
+        "startDate": "2026-03-15",
+        "description": "최우수 장편 애니메이션 + 최우수 주제가 (\"Golden\"); 넷플릭스 누적 조회 5억 회 돌파",
+        "url": "https://www.koreatimes.co.kr/entertainment/films/20260316/kpop-demon-hunters-wins-big-at-oscars-with-2-awards",
+        "location": {
+          "@type": "Place",
+          "name": "Hollywood, California, United States"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "Event",
+        "name": "젠더왓치독: 넷플릭스에 ESG 통보 발송",
+        "startDate": "2026-03-17",
+        "description": "넷플릭스, 디즈니, HBO/Max, BHRRC 등에 공식 ESG 통보 발송; 3월 16일 공개된 \"넷플릭스는 알고 있었다\" 게시물 첨부",
+        "url": "https://blog.genderwatchdog.org/netflix-knew-kpop-exploitation-documentary-library/",
+        "location": {
+          "@type": "Place",
+          "name": "South Korea"
+        }
+      }
+    }
+  ]
+}
